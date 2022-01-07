@@ -2,4 +2,4 @@
 
 NextEventer: http://nexteventer.vercel.app/
 
-NextEventer repo: https://github.com/matías-fuentes/NextEventer
+NextEventer repo: https://github.com/matias-fuentes/NextEventer
